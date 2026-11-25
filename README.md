@@ -1,3 +1,11 @@
+# Atlas-Harness-Legacy
+
+> **LEGACY — retired project.** LEGACY — Historical universal harness design; superseded by the AtlasBot, AtlasHQ and AtlasInfra product separation.
+>
+> Historical documentation retained below. Do not deploy, distribute or restart development from this repository. See the [current portfolio](https://github.com/AtlasHub-Si/.github/blob/main/PORTFOLIO.md).
+
+---
+
 # Atlas Harness — Integration Research
 
 **Portfolio status:** Maintenance freeze; scope review.
