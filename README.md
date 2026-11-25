@@ -1,3 +1,13 @@
+# Atlas Harness — Integration Research
+
+**Portfolio status:** Maintenance freeze; scope review.
+
+Retain engineering history and evaluate only necessary reusable runtime contracts. AtlasHQ owns enterprise work, AtlasBot owns personal interaction and AtlasInfra owns infrastructure. No independent universal harness rebuild is authorized by the current product baseline.
+
+> Historical engineering material below is preserved for provenance, not as an active product specification or deployment instruction. See the [AtlasHub institutional profile](https://github.com/AtlasHub-Si) for the current baseline.
+
+---
+
 # Atlas Harness — Architecture for the AI-Native Enterprise
 
 > **Nome canónico confirmado · 14-11-2026:** **Atlas Harness** (repositório técnico `Atlas-Harness`). O rótulo `Atlas-Hardness` da antiga maquete visual é uma gralha histórica, não uma marca alternativa. [Registo de decisão no Brand System](https://github.com/AtlasHub-Si/atlas-brand-system/blob/main/docs/NAMING_DECISION_2026-11-14.md). A imagem congelada mantém-se intacta.
@@ -88,3 +98,7 @@ The `nightly-labs/openbot` source licence is **PolyForm Noncommercial 1.0.0** fo
 ## Governance and contributions
 
 All functional claims require linked test evidence. Changes to contracts and licensing require reviewed ADRs/PRs; preserve upstream LICENSE and NOTICE files and check each subdirectory/package separately. Do not insert actual secrets, customer data, payment values or private staff data into this repository. The Atlas Harness original reference material is not automatically under MIT merely because some of its dependencies are.
+
+
+---
+[AtlasHub.SI](https://atlashub.si) · London · Lisbon · Goiânia
